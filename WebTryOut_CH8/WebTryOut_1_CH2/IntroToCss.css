@@ -1,0 +1,21 @@
+﻿body {
+    color: orange;
+    font-size: 20px;
+    font-weight: 800;
+    background-color: lightblue;
+}
+
+h1 {
+    color: red;
+    font-size: 26px;
+}
+
+.special {
+    font-size: xx-large;
+    color: #800080;
+}
+.introduction {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: #800000;
+}
